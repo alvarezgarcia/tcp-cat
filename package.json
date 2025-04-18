@@ -1,0 +1,16 @@
+{
+  "name": "tcp-cat",
+  "version": "0.0.1",
+  "description": "Cat TCP connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "bare test.js"
+  },
+  "keywords": [],
+  "author": "alvarezgarcia",
+  "license": "MIT",
+  "devDependencies": {
+    "brittle": "^3.13.1",
+    "cmake-bare": "^1.5.4"
+  }
+}

@@ -1,0 +1,6 @@
+*.sw*
+.cache
+node_modules
+package-lock.json
+build
+prebuilds
